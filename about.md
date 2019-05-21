@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Howdy!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm Zachary Gummow, an undergraduate computer science student at Texas A&M. This blog will detail my experiences during Google Summer of Code 2019.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zach.gummow@gmail.com](mailto:zach.gummow@gmail.com)
