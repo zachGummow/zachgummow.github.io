@@ -9,7 +9,7 @@ name: GSoC 2019 - FreeCAD Blog
 description: Development blog for FreeCAD as part of Google Summer of Code
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/FreeCAD-logo.png
+avatar: images/FreeCAD-logo.png
 
 #
 # Flags below are optional
