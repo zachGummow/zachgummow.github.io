@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Incremental Builds
+title: Packaging Complete
 ---
 
 After meeting with kkremitzki we did some diagnosing of my Debian unstable virtual machine. We found that I had not called `stow` on my dotfiles!
